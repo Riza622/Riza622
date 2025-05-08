@@ -9,10 +9,17 @@ Proficient in Python · R · SQL · Data Visualization
 ---
 
 <!-- Social & Contact -->
+<!-- Social & Contact -->
 <p align="center">
-  <a href="https://github.com/Riza622"><img src="https://img.shields.io/badge/GitHub-@Riza622-181717?style=flat&logo=github" alt="GitHub"></a>
-  <a href="http://www.linkedin.com/in/riza-saireke"><img src="https://img.shields.io/badge/LinkedIn-@yourname-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:ryzsrk@outlook.com"><img src="https://img.shields.io/badge/Email-youremail@example.com-D14836?style=flat&logo=gmail" alt="Email"></a>
+  <a href="https://github.com/Riza622">
+    <img src="https://img.shields.io/badge/GitHub-@Riza622-181717?style=flat&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/riza-saireke">
+    <img src="https://img.shields.io/badge/LinkedIn-%40riza--saireke-0A66C2?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:ryzsrk@outlook.com">
+    <img src="https://img.shields.io/badge/Email-ryzsrk%40outlook.com-D14836?style=flat&logo=gmail" alt="Email">
+  </a>
 </p>
 
 ---
