@@ -1,5 +1,3 @@
-
-
 # Hi there, I’m Riza 👋
 
 Master’s in Computational Social Science @ UC Berkeley 🎓  
