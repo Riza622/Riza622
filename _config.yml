@@ -1,1 +1,4 @@
-
+# _config.yml
+title: "Riza Serik"
+theme: minima
+source: docs     
