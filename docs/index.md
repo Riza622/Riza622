@@ -1,4 +1,4 @@
-# Hi there, I’m Riza 👋
+
 
 Master’s in Computational Social Science @ UC Berkeley 🎓  
 Data Analyst | Causal Inference · Time Series · NLP  
