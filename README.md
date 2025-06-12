@@ -6,8 +6,7 @@
 
 <p align="center">
   <a href="mailto:ryzsrk@outlook.com">Email</a> •
-  <a href="https://www.linkedin.com/in/your-link">LinkedIn</a> •
-  <a href="https://kaggle.com/your-kaggle">Kaggle</a>
+  <a href="https://www.linkedin.com/in/riza-serik">LinkedIn</a> •
 </p>
 
 ---
